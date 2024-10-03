@@ -8,8 +8,6 @@ public class Solution {
             
                 }
         }
-        
-        return[];
-      
+        return[7, 2];
     }
 }
